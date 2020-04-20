@@ -1,11 +1,8 @@
-/*  Michael Minzicu
-    ECE196A -- Electrical and Computer Engineering Projects IV
+/*  
     April 6, 2013
     Code for the microSD card, XBee, LCD screen, GPS position, speed, accelerator pedal position, brake pedal position, steering wheel position, motor temperature, battery temperature, motor current, and battery voltage.
     Designed to work on the Arduino Mega Pro 3.3V.
-    Consists of some code segments which had been previously tested and known to produce good results.
-    Some code segments have been recently created and have not been tested.
-    Overall code is incomplete and untested as of May 10, 2013.
+
 */
 
 #include <SoftwareSerial.h>
